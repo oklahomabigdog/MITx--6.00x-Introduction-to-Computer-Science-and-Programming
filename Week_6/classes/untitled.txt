@@ -1,0 +1,82 @@
+=======
+= NEW =
+=======
+Review Cycle
+Reviewed By
+Servicer
+Freddie Mac Loan Number
+Servicer Loan Number
+State
+Date of Origination
+Previous Mod Count
+Repurchase Indicator
+Credit Enhanced Indicator
+Indemnification Indicator
+Recourse Indicator
+ByPass Flag
+Indemnification and/or recourse per Midas
+1st P&I Pymt Date
+Delinquent Loan Indicator
+Future 1st Pymt Due Date
+Prior HAMP Eligibility?
+HAMP Denial Reason Doc'd by Servicer?
+Decline Reason Doc'd by Servicer
+FM in Agreement w/ HAMP Declination?
+Compliant w/ Workout Hierarchy
+Stated/Verified Review
+Date of Financial Form or Date of Servicer Doc'd Income (stated income mods only)
+Financial Form Compliant w/ Doc Req?
+Documented Hardship (Letter/Affidavit/Svcing Records or Forms) Compliant w/ Doc Req?
+Income Compliant w/ Doc Req?
+Date of Credit Report
+Credit Report Compliant w/ Doc Req?
+Type of Evaluation Used
+Date of BPO
+BPO/AVM Compliant w/ Doc Req?
+If Interior BPO was required, was it Compliant w/ Doc Req?
+If MI Approval was Required, approval letter provided/ terms of approval doc'd?
+Compliant w/ Doc Req
+Loan Originated at least 12 mos Prior to the Loan Mod Request?
+Compliant w/ Lien Position Eligibility?
+Servicer Compliant w/ Recourse Req?
+Compliant w/ Eligibility Req
+Servicer Derived DCR within Delegated Authority?
+Modified Term Extension within Delegation?
+Pre-modified Interest Rate
+Post-modified Interest Rate
+Ability to Pay Rate
+Modified Int Rate Matches Ability to Pay Rate (Applicable to interest rate reduction mods only)?
+Modified Int Rate within Delegation?
+Was Servicer Compliant w/ Delegated Authority?
+1st Modified Pymt Due per Exe Mod Agrmt
+1st Modified Pymt Due per Settlement
+Does 1st Modified Pymt Due Date Match on Exe Mod Agrmt & Settled Terms?
+Modified Int Rate Per Exe Mod Agrmt
+Modified Int Rate Per Settlement
+Does Modified Int Rate Match on the Exe Mod Agrmt & Settled Terms?
+Term Extension per Exe Mod Agrmt (in months)
+Term Extension per Settlement (in months)
+Does Term Extension Match on Exe Mod Agrmt & Settled Terms?
+Modified UPB per Exe Mod Agrmt
+Modified UPB per Settlement
+Does Modified UPB Match on Exe Mod Agrmt & Settled Terms?
+Modified P&I Pymt per Exe Mod Agrmt
+Modified P&I Pymt per Settlement
+Does Modified P&I Pymt Amts Match on Exe Mod Agrmt & Settled Terms?
+Executed Modification Agrmt Terms Match LMTW/Settled Terms?
+Servicer Compliant w/ Title Endorsement Req?
+Servicer Compliant w/ Recording Req?
+Compliant w/ Settled Terms
+Servicer's Net Monthly Income Calc
+FM's Net Monthly Income Calc
+Income Calc Difference
++ or - 2% Tolerance  Calc
+Servicer Derived Monthly Liabilities & Living Expenses
+FM Derived Monthly Liabilities & Expenses
+Liabilities & Expense Difference
+FM Derived DCR
+Term Extension in alignment w/ Settled Terms?
+Interest Rate in alignment w/ Settled Terms?
+Re-execution of WF in alignment w/ Settled Terms?
+Overall Pass/Fail/Fail - Missing Docs                               
+Comments (limit 255 characters)
