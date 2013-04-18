@@ -7,7 +7,7 @@ def foo(x, a):
     """
     count = 0
     while x >= a:
-        count += 1
+count += 1
         x = x - a
         return count
 
