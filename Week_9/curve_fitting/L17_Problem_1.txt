@@ -1,0 +1,8 @@
+Using the formula derived in this segment, compute k from the second
+experimental observation: m = 0.15 kg, x = 0.1015.
+
+Use 9.81 m/s^2 as the gravitational constant (g). Enter your answer to at least
+1 decimal place of accuracy.
+
+1. k =
+    Answer: 14.4975

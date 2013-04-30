@@ -1,0 +1,11 @@
+In the following boxes, you will be asked to enter in mathematical expressions.
+To enter in addition, multiplication, subtraction, or division, use the
+operators: +, *, -, /. To enter in exponentiation, use the caret (^) key.
+To enter in the constant π, simply type pi.
+
+1. What constant can you estimate using the following picture?
+    Answer: pi/2
+2. Download the code used in the lecture "Finding Pi". If we now want to
+   estimate the constant from the picture above, what should the number '4' in
+   the line: return 4*(inCircle/float(numNeedles)) be changed to?
+    Answer: 2

@@ -1,0 +1,31 @@
+For these questions, you'll be asked to give the big-O upper bound runtime for
+some Python functions. In your answer, please omit the "O( )" portion of the
+answer and simply write a mathematical expression.
+
+Use +, -, / signs to indicate addition, subtraction, and division. Explicitly
+indicate multiplication with a * (ie say "6*n" rather than "6n"). Indicate
+exponentiation with a caret (^) (ie "n^4" for n4). Indicate base-2 logarithms
+with the word log2 followed by parenthesis (ie "log2(n)").
+
+What this all means is if an answer is, for example, O(n4), please simply write
+"n^4" in the box.
+
+1. What is the big-O upper bound runtime for the function look_for_things,
+   where n is defined as the number of elements in myList?
+    Answer: n
+
+2. What is the big-O upper bound runtime for the function look_for_other_things,
+   where n is defined as the number of elements in myList?
+    Answer: n^2
+
+3. What is the big-O upper bound runtime for the function
+   look_for_all_the_things, where n is defined as the number of elements in
+   myList?
+    Answer: 2^n
+
+
+
+
+
+
+

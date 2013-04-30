@@ -1,0 +1,29 @@
+L16 PROBLEM 1 : 5.0 POINTS
+
+For the following real-life situations, fill in the blank with the appropriate
+distribution model (normal, uniform, or exponential) that would best simulate
+the situation.
+
+1. Rolling a fair 6-sided die
+    Answer: uniform
+
+2. Sum of rolling 2 fair 6-sided dice
+    Answer: normal
+
+3. Women's shoe sizes
+    Answer: normal
+
+4. Human intellegence (IQ) scores
+    Answer: normal
+
+5. Growth of mold on bread, assuming an infinite supply of bread
+    Answer: exponential
+
+6. The winning lottery numbers
+    Answer: uniform
+
+7. Skilled person throwing darts at a dart board
+    Answer: normal
+
+8. Radioactive decay (time between successive atom decays)
+    Answer: exponential

@@ -1,0 +1,8 @@
+In this problem, instead of 3 doors, 1 car, and 2 goats, instead there are 4
+doors, 2 cars and 2 goats.
+
+1. As in the Monty Hall problem, the player chooses a door, and then the host opens
+   a door hiding a goat. With simulation or hand calculation, calculate the
+   probability that switching into a door will lead you to a car. Enter your
+   answer as a fraction or decimal in the following box:
+    Answer: 3/4

@@ -1,0 +1,30 @@
+1. If you consider final virus particle counts of 0-50 to be cured (or in
+   remission), approximately what percentage of patients were cured (or in
+   remission) at the end of the simulation?
+
+   1. delay of 2nd drug = 300
+      Answer: 0 - 15%
+
+   2. delay of 2nd drug = 150
+      Answer: 0 - 30%
+
+   3. delay of 2nd drug = 75
+      Answer: 31 - 65%
+
+   4. delay of 2nd drug = 0
+      Answer: 66 - 100%
+
+2. What is the relationship between when drugs are applied and patients being
+   cured?
+    Answer: Applying the 2nd drug earlier means the patient is more likely to be
+            cured.
+
+3. Increasing mutProb will increase the number of cured patients.
+    Answer: False
+
+4. The relationship between number of cured patients and when the delay occurs
+   linear.
+    Answer: False
+
+5. Of the four delay values tested, which has the lowest variance?
+    Answer: delay of 2nd drug = 0

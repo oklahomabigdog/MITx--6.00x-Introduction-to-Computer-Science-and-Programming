@@ -1,0 +1,8 @@
+1. If you wanted to run a simulation that estimates the value of square root of 2
+   in a way similar to the Pi estimation shown in lecture, what geometric shape
+   would you throw needles at?
+    Answer: A flat line ranging from 1 to 2‾‾√ and with a subsection that spans
+            from 0 to 1.
+
+2. What introduced the error for Archimedes' method of calculating Pi?
+    Answer: What introduced the error for Archimedes' method of calculating Pi?

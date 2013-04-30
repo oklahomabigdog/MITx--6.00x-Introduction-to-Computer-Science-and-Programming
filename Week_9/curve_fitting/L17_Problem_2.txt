@@ -1,0 +1,16 @@
+Experiment with the function testErrors() from the lecture code file. Try using
+a different probability distribution to model the errors, say random.uniform
+(you'll need to look at the documentaion for the random module to determine the
+correct arguments).
+
+1. Do you get the same result as claimed in the lecture? Does the probability
+   distribution for the sums approach a normal distribution?
+    Answer: Yes
+
+2. Try increasing the number of trials. Does the result look more like the
+   normal distribution?
+    Answer: Yes
+
+3. What happens to the variance of the normal distribution as you increase the
+   number of trials?
+    Answer: The variance decreases

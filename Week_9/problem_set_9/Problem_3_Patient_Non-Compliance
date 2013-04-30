@@ -1,0 +1,8 @@
+1. Which of the following approaches would be the best for modeling this?
+    Answer: Make a subclass of TreatedPatient that stochastically does not take
+            its medication.
+
+2. If we re-ran the simulations from the first problem of this pset, with 20% of
+   patients not complying to their drug regimen...
+    Answer: Fewer patients would be cured or in remission at the end of the
+            simulations.

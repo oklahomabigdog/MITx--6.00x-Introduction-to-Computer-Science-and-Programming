@@ -1,0 +1,43 @@
+1. If you consider final virus particle counts of 0-50 to be cured (or in
+   remission), approximately what percentage of patients were cured (or in
+   remission) at the end of the simulation?
+
+   1. delay = 300
+      Answer: 0 - 5%
+
+   2. delay = 150
+      Answer: 0 - 5%
+
+   3. delay = 75
+      Answer: 6 - 15%
+
+   4. delay = 0
+      Answer: 86 - 100%
+
+2. What type of distribution does the histogram for delay = 0 create?
+  Answer: None of the above
+
+3. What is the relationship between when drugs are applied and patients being
+   cured?
+    Answer: Applying the drug earlier means the patient is more likely to be
+            cured.
+
+4. For the following, assume the delay is 150. Answer these questions on
+   changing the initial parameters of a simulation.
+
+   1. Increasing the length of the viruses list decreases the number of patients
+      cured.
+        Answer: TRUE
+
+   2. Increasing the maxPop decreases the number of patients cured.
+        Answer: TRUE
+
+   3. Increasing the maxBirthProb decreases the number of patients cured.
+        Answer: TRUE
+
+   4. Increasing the clearProb decreases the number of patients cured.
+        Answer: FALSE
+
+   5. Initializing each virus with resistance to guttagonol means no viruses
+      will be killed.
+        Answer: FALSE

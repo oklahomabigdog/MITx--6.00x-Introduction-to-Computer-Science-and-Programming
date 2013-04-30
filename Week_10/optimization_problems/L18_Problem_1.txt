@@ -1,0 +1,9 @@
+Now it's time to try your hand at a bin-packing problem. Your job is to pack
+items of the following sizes:
+
+[1, 1, 2, 2, 3, 4, 5, 6, 7, 9]
+into bins of size 10. Find a solution that packs all of the objects into the
+bins, using the fewest number of bins possible.
+
+What is the minimum number of bins you will need to accomplish this task?
+Answer: 4
